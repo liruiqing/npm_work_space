@@ -1,0 +1,16 @@
+{
+  "name": "qing_random_mail",
+  "version": "0.0.1",
+  "description": "random chinese mail address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "mail",
+    "address"
+  ],
+  "author": "liruiqing",
+  "license": "ISC"
+}

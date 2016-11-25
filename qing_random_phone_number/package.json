@@ -1,0 +1,16 @@
+{
+  "name": "qing_random_phone_number",
+  "version": "0.0.2",
+  "description": "get random chinese cellphone number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "phone",
+    "number"
+  ],
+  "author": "liruiqing",
+  "license": "ISC"
+}
