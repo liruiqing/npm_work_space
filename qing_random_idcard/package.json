@@ -1,6 +1,6 @@
 {
   "name": "qing_random_idcard",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Automatic generated chinese idcard",
   "main": "index.js",
   "scripts": {
